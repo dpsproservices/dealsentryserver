@@ -1,0 +1,8 @@
+{
+  "name": "Deal Sentry Server",
+  "description": "This is a pring Boot demo web services app on Heroku.",
+  "website": "https://jskarulis.heroku.com/dealsentry",
+  "repository": "https://github.com/jskarulis/dealsentryserver",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
